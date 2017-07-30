@@ -1,1 +1,4 @@
-# MC_React
+npm install
+npm run mock
+npm start
+
